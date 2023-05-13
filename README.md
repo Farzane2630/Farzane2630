@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working with Appolo start-up an loking for a new, exciting offer from Germany.
-
+💻 I’m currently working for rainteach.io .
+🔭 Please feel free to contact me if you have a tempting offer for work. I am especially looking forward to working with German companies and firms (remote or preferably with relocation). 
+👩‍💻 Über mich:
+💻 Ich arbeite derzeit bei rainteach.io . 
+🔭 Bitte zögern Sie nicht, mich zu kontaktieren, wenn Sie ein verlockendes Jobangebot haben. Ich freue mich besonders darauf, mit deutschen Unternehmen und Firmen zusammenzuarbeiten (entweder remote oder vorzugsweise mit einer Umzugsunterstützung).
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100084775025066) 
