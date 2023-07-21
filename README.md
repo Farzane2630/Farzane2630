@@ -1,8 +1,8 @@
 # 💫 About Me:
-### 💻 I’m currently working for rainteach.io .
+### 💻 I’m currently working for raintech.io .
 ### 🔭 Please feel free to contact me if you have a tempting offer for work. I am especially looking forward to working with German companies and firms (remote or preferably with relocation). 
 ### 👩‍💻 Über mich:
-### 💻 Ich arbeite derzeit bei rainteach.io . 
+### 💻 Ich arbeite derzeit bei raintech.io . 
 ### 🔭 Bitte zögern Sie nicht, mich zu kontaktieren, wenn Sie ein verlockendes Jobangebot haben. Ich freue mich besonders darauf, mit deutschen Unternehmen und Firmen zusammenzuarbeiten (entweder remote oder vorzugsweise mit einer Umzugsunterstützung).
 
 ## 🌐 Socials:
