@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👩‍💻 I’m a software developer and my passions lie in beautiful interfaces, code quality, and work-life balance.
+### 👩‍💻 I’m a Frontend developer and my passions lie in beautiful interfaces, code quality, and work-life balance.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100084775025066) 
