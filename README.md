@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👩‍💻 Frontend Developer • CS Engineering Student | Passionate about crafting beautiful UIs, writing clean code, and balancing tech with life.
+### 👩‍💻 Frontend Developer • Computer Engineering Student | Passionate about crafting beautiful UIs, writing clean code, and balancing tech with life.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100084775025066) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzane-kazemi) 
