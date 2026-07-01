@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farzaneh
 
-Full-Stack SaaS Engineer focused on building production-ready web products.
+Full-Stack Engineer focused on building production-ready web products.
 
 I'm the creator of MyPanelApp, a multi-tenant appointment booking SaaS that allows businesses to launch their own booking portal in under 5 minutes and lets customers schedule appointments in less than 30 seconds.
 
